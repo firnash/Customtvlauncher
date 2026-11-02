@@ -1,0 +1,9 @@
+# Candidate bloat packages. UNVERIFIED for your exact model: run
+#   scripts/debloat.sh --list
+# first and delete anything you want to keep. Only packages actually installed are touched.
+#
+# Xiaomi PatchWall content rows (names from a third-party write-up; verify on your TV)
+com.mitv.tvhome.michannel
+# Add further packages from `adb shell pm list packages` below, one per line.
+# Do NOT add the stock home (com.mitv.tvhome.atv / com.google.android.tvlauncher)
+# until this launcher is installed and set as default.

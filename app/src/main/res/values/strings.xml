@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Custom Launcher</string>
+    <string name="show_hidden">Show hidden apps</string>
+    <string name="hide_hidden">Hide hidden apps</string>
+    <string name="hint">Hold OK on an app to hide or unhide it</string>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <color name="bg_top">#101820</color>
+    <color name="bg_bottom">#05080C</color>
+    <color name="text_primary">#F2F5F7</color>
+    <color name="text_secondary">#8A97A3</color>
+    <color name="tile">#1A2430</color>
+    <color name="tile_focused">#2E4157</color>
+    <color name="accent">#5BB8FF</color>
+</resources>
